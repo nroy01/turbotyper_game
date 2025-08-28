@@ -12,8 +12,7 @@ TurboTyper is a fast, privacy-first typing test for iPhone and iPad.
 - Large common-word pool, clean themes, no ads
 
 **Support**
-- Email: <your-email@example.com>
-- App Store: (link once live)
+- Email: neel.g.roy.games@gmail.com
 
 **Privacy**
 We do not collect personal data. See the full policy:
