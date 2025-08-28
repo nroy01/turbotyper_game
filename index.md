@@ -1,5 +1,5 @@
 ---
-title: TurboTyper
+TurboTyper
 ---
 
 # TurboTyper – Support
