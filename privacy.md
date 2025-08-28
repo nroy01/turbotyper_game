@@ -1,5 +1,5 @@
 ---
-title: TurboTyper Privacy Policy
+TurboTyper Privacy Policy
 ---
 
 # Privacy Policy
@@ -24,6 +24,6 @@ Because we do not collect personal data or run a backend, there is nothing for u
 If this policy changes, we’ll update this page and the “Effective date”.
 
 ## Contact
-For questions, email: <neel.g.roy.games@example.com>
+For questions, email: <neel.g.roy.games@gmail.com>
 
 _Last updated: August 2025_
